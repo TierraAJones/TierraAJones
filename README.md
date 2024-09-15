@@ -5,7 +5,7 @@ I am currently learning Python and SQL. After completing these two languages, I 
 
 I'm looking for help with tutorials and contributing to open source projects.
 
-My goals for the future are working industries such as Business Intelligence, Cybersecurity, Finance, or FinTech and learn more about Web 3.0. 💼👩🏽‍💻📈💵
+My goals for the future are working in industries such as Business Intelligence, Cybersecurity, Finance, or FinTech and learn more about Web 3.0. 💼👩🏽‍💻📈💵
 
 I'm willing to adapt and try new things to level up my skills. 🧠📚
 
