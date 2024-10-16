@@ -1,15 +1,15 @@
 ### Hey everybody! 👋🏽
-Welcome to my coding journey! My name is Tierra, but you can call me TJ if you'd like. 
+Welcome to my coding journey! My name is Tierra. 
 
-I am currently learning Python and SQL. After completing these two languages, I want to learn Javascript, Solidity and many other languages that interests me.
+🌱 I am currently learning Python and SQL. After completing these two languages, I want to learn Javascript, Solidity and many other languages that interests me.
 
-I'm practicing with tutorials and online resources. I intend on contributing to open source projects soon.
+🔭 I'm practicing with tutorials and online resources. I intend on contributing to open source projects soon.
 
-My goals for the future are working in industries such as Business Intelligence, Cybersecurity, Finance, or FinTech and learn more about Web 3.0. 💼👩🏽‍💻📈💵
+My goals for the future are working in industries such as Business Intelligence, Cybersecurity, Finance, or FinTech and learning more about Web 3.0. 💼👩🏽‍💻📈💵
 
 I'm willing to adapt and try new things to level up my skills. 🧠📚
 
-I like iced coffee, spicy chips 🌶️, and dark chocolate 🍫. 
+
 
 
 <!--
