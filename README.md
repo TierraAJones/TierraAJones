@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 -->
 ![Tierra's GitHub stats](https://github-readme-stats.vercel.app/api?username=tierraajones&show_icons=true&theme=panda)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tierraajones&layout=compact)
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,kali,linux,bash,py,sqlite,swift,git,github,vscode,notion,apple,windows)](https://skillicons.dev)
 
 
