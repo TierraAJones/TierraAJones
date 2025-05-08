@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,kali,linux,bash,py,sqlite,swift,git,github,vscode,notion,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,mysql,kali,linux,bash,py,sqlite,anaconda,swift,git,github,vscode,notion,apple,windows)](https://skillicons.dev)
 
 
