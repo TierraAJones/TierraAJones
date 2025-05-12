@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 
 ### Tech Stack and Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=html,css,sublime,mysql,kali,linux,bash,py,sqlite,anaconda,js,sklearn,swift,git,github,vscode,notion,apple,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sublime,mysql,kali,linux,bash,py,sqlite,anaconda,js,replit,sklearn,swift,git,github,vscode,notion,apple,windows)](https://skillicons.dev)
 
 
