@@ -1,13 +1,13 @@
 ### Hey everybody! 👋🏽
 Welcome to my coding journey! My name is Tierra. 
 
-🌱 I am currently learning intermediate and advanced-level Python and Generative AI. After completing these two languages, I want to learn many other programming languages that interests me.
+🌱 I am currently learning intermediate and advanced-level Python and SQL. After completing these two languages, I want to learn many other programming languages that interests me.
 
 👯‍♀️ I'm looking forward to collaborating on open source projects to sharpen my coding skills. 
 
 🔭 I'm practicing with tutorials and online resources. I intend on contributing to open source projects soon.
 
-✨ My goals for the future are working in industries such as Business, Cybersecurity, Finance, or FinTech and learning more about Web 3.0. 💼👩🏽‍💻📈💵
+✨ My goals for the future are working in industries such as Business, Cybersecurity, Finance, or FinTech and learning more about tech. 💼👩🏽‍💻📈💵
 
 ✅ I'm willing to adapt and try new things to level up my skills. Knowledge is power! 🧠📚
 
